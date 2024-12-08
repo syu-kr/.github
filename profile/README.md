@@ -6,18 +6,18 @@
 
 # TECH
 
-<img height="64" width="64" src="https://cdn.simpleicons.org/node.js/" /> <img height="64" width="64" src="https://cdn.simpleicons.org/tsnode/" />
-<img height="64" width="64" src="https://cdn.simpleicons.org/selenium/" /> <img height="64" width="64" src="https://cdn.simpleicons.org/qt/" />
+<img height="64" width="64" src="https://cdn.simpleicons.org/node.js" /> <img height="64" width="64" src="https://cdn.simpleicons.org/tsnode" />
+<img height="64" width="64" src="https://cdn.simpleicons.org/selenium" /> <img height="64" width="64" src="https://cdn.simpleicons.org/qt" />
 
 <br />
 
-<img height="64" width="64" src="https://cdn.simpleicons.org/javascript/" /> <img height="64" width="64" src="https://cdn.simpleicons.org/typescript/" />
-<img height="64" width="64" src="https://cdn.simpleicons.org/python/" /> <img height="64" width="64" src="https://cdn.simpleicons.org/pypy/" />
+<img height="64" width="64" src="https://cdn.simpleicons.org/javascript" /> <img height="64" width="64" src="https://cdn.simpleicons.org/typescript" />
+<img height="64" width="64" src="https://cdn.simpleicons.org/python" /> <img height="64" width="64" src="https://cdn.simpleicons.org/pypy" />
 
 <br />
 
-<img height="64" width="64" src="https://cdn.simpleicons.org/express/" /> <img height="64" width="64" src="https://cdn.simpleicons.org/nestjs/" />
-<img height="64" width="64" src="https://cdn.simpleicons.org/django/" /> <img height="64" width="64" src="https://cdn.simpleicons.org/redis/" />
+<img height="64" width="64" src="https://cdn.simpleicons.org/express" /> <img height="64" width="64" src="https://cdn.simpleicons.org/nestjs" />
+<img height="64" width="64" src="https://cdn.simpleicons.org/django" /> <img height="64" width="64" src="https://cdn.simpleicons.org/redis" />
 
 <br />
 
